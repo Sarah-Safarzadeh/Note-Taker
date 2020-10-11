@@ -7,6 +7,9 @@
 
 * The application’s front end has already been created. The challenge requires building the back end, connecting the two, and then deploying the entire application to Heroku.
 
+[Deployed Application](https://sarah-safarzadeh.github.io/miniature-eureka/)
+[GitHub Repository](https://github.com/Sarah-Safarzadeh/miniature-eureka/settings)
+
 ### User Story:
 AS A small business owner\
 I WANT to be able to write and save notes\
