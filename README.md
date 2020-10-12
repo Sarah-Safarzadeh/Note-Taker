@@ -9,6 +9,7 @@
 
 ### [Deployed Application](https://sarah-safarzadeh.github.io/miniature-eureka/)
 ### [GitHub Repository](https://github.com/Sarah-Safarzadeh/miniature-eureka/settings)
+### [Heroku](https://intense-stream-00781.herokuapp.com/)
 
 ### User Story:
 AS A small business owner\
