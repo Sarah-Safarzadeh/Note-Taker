@@ -10,6 +10,8 @@ const htmlRoutes = require('./routes/htmlRoutes');
 // Middleware
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use('/api', apiRoutes);
+app.use('/', htmlRoutes);
 app.use(express.static('public'));
 
   // HTML Routes
