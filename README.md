@@ -57,7 +57,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Application Quality: 11%
 * Application console is free of errors.
-* Repository Quality: 13%
+
+## Repository Quality: 13%
 * Repository has a unique name.
 
 * Repository follows best practices for file structure and naming conventions.
