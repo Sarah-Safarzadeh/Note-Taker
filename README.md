@@ -7,7 +7,7 @@
 
 * The application’s front end has already been created. The challenge requires building the back end, connecting the two, and then deploying the entire application to Heroku.
 
-### [Deployed Application](https://sarah-safarzadeh.github.io/miniature-eureka/)
+### [Deployed Application](https://sarah-safarzadeh.github.io/Note-Taker/)
 ### [GitHub Repository](https://github.com/Sarah-Safarzadeh/miniature-eureka/settings)
 ### [Heroku](https://intense-stream-00781.herokuapp.com/)
 
